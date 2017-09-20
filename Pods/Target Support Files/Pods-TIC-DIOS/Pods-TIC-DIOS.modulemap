@@ -1,0 +1,6 @@
+framework module Pods_TIC_DIOS {
+  umbrella header "Pods-TIC-DIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
